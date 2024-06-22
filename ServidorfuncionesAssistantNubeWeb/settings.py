@@ -25,7 +25,7 @@ SECRET_KEY = "django-insecure-2h+p$qw-kxy!28v)bs@qlvp3y4_i11rh6+vkedbo5!n9h7+zfa
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['menuweb.cl', 'localhost', '40.74.216.251']
+ALLOWED_HOSTS = ['menuweb.cl', 'localhost', '40.124.106.213']
 
 
 # Application definition
