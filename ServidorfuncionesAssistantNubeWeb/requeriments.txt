@@ -1,7 +1,0 @@
-djangorestframework
-psycopg2-binary
-django-cors-headers
-requests
-pytz
-django-environ
-whitenoise
